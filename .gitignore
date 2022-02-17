@@ -10,6 +10,14 @@
 *.userosscache
 *.sln.docstates
 
+# Azure Functions publish files
+*.pubxml
+*.pubxml.user
+*deploy.json
+*deploy.json.user
+*arm.json
+[Pp]roperties/
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
